@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none"><defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#16397E"/><stop offset="1" stop-color="#0A1F44"/></linearGradient>
+<radialGradient id="glow" cx=".78" cy=".2" r=".8"><stop offset="0" stop-color="#3B6FF0" stop-opacity=".45"/><stop offset="1" stop-color="#3B6FF0" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="6" height="6" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r=".55" fill="#fff" fill-opacity=".14"/></pattern>
+</defs><rect width="64" height="64" rx="16" fill="url(#bg)"/><rect width="64" height="64" rx="16" fill="url(#glow)"/><rect x=".5" y=".5" width="63" height="63" rx="15.5" stroke="#fff" stroke-opacity=".14"/><path d="M16 14v36h10c10 0 16-7.5 16-18S36 14 26 14H16z" fill="#fff"/><circle cx="29" cy="32" r="5.2" fill="#0A1F44"/><circle cx="29" cy="32" r="3.2" fill="#F59E0B"/><circle cx="47.0" cy="32" r="2.30" fill="#F59E0B" fill-opacity="1.00"/><circle cx="52.2" cy="32" r="1.75" fill="#F59E0B" fill-opacity="0.70"/><circle cx="57.4" cy="32" r="1.20" fill="#F59E0B" fill-opacity="0.40"/></svg>

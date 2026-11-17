@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://delegalabs.ing-josearaqueg.workers.dev/sitemap.xml

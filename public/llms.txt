@@ -1,0 +1,24 @@
+# Delega Labs
+
+> Agencia de automatización con WhatsApp e IA para pymes de San Cristóbal (Táchira) y Cúcuta. Conectamos el WhatsApp del negocio con el catálogo, los pagos y la caja, en bolívares, dólares y pesos.
+
+Delega Labs es un estudio pequeño. Quien hace el diagnóstico es quien programa la solución. Cada servicio se cobra con una implementación única y una mensualidad por funcionamiento y soporte. Los precios son referenciales y el monto final se confirma después de un diagnóstico gratuito de 20 minutos.
+
+## Servicios
+
+- [Bot de catálogo y pedidos](https://delegalabs.ing-josearaqueg.workers.dev/#servicios): responde precios y disponibilidad con el catálogo del negocio, arma el pedido y lo deja listo para despachar. Precios en Bs, USD o COP según la tasa del día.
+- [Cuadre de caja multimoneda](https://delegalabs.ing-josearaqueg.workers.dev/#servicios): registra lo que entra por Pago Móvil, Zelle y efectivo, y entrega el cierre del día en un solo resumen.
+- [Cobranza automática por WhatsApp](https://delegalabs.ing-josearaqueg.workers.dev/#servicios): recordatorios a quien debe, con el monto y la forma de pago, en la fecha que el dueño defina.
+- [Conciliación de pagos](https://delegalabs.ing-josearaqueg.workers.dev/#servicios): compara los pagos reportados con lo que llegó y asocia cada pago a su pedido o factura.
+
+## Cómo trabajamos
+
+- [Proceso](https://delegalabs.ing-josearaqueg.workers.dev/#proceso): diagnóstico de 20 minutos, demo con datos del negocio antes de pagar, implementación en plazo acordado y soporte mensual.
+
+## Preguntas frecuentes
+
+- [Preguntas](https://delegalabs.ing-josearaqueg.workers.dev/#preguntas): cortes de luz e internet, precios del asistente, seguridad de los datos y qué pasa si se deja de pagar.
+
+## Contacto
+
+- [Contacto](https://delegalabs.ing-josearaqueg.workers.dev/#contacto): se agenda el diagnóstico por WhatsApp.
